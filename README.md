@@ -6,4 +6,4 @@
   <li>LSTM</li>
 </ul>
 
-<img src="Arima.jpg" height=700 width=500>
+<img src="Arima.JPG" height=500 width=1200>
